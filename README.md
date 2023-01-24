@@ -11,4 +11,5 @@ Check out the [demo video](https://youtu.be/89BFGi-5QCs).
 
 ### About
 
-The app was created near the end of 2022. The security level of ROT13 is poor.
+- The app was created near the end of 2022. 
+- The security level of ROT13 is poor.
