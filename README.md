@@ -1,6 +1,6 @@
 # ROT13_Nodejs
 
-<img src="https://images.squarespace-cdn.com/content/v1/587b630aebbd1ab22efeeb6b/685916b4-a067-4eef-9273-adfab9e2499b/ROT13.png"/>
+<img src="ROT13.png"/>
 
 Check out the [demo video](https://youtu.be/89BFGi-5QCs).
 
