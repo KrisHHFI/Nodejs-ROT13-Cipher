@@ -2,8 +2,6 @@
 
 <img src="ROT13.png"/>
 
-Check out the [demo video](https://youtu.be/89BFGi-5QCs).
-
 ### Launch the App
 
 1) Download Node.js and JavaScript.
